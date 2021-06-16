@@ -1,4 +1,6 @@
-### **FamousFinder example:**
+### **FamousFinder**
+
+Find the most known people from list giving
 
 ###### **Test with:** `mvn test`
 
