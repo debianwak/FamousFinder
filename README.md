@@ -1,6 +1,6 @@
 ### **FamousFinder**
 
-Find the most known people from list giving
+Find the most known people from giving list
 
 ###### **Test with:** `mvn test`
 
